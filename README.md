@@ -7,8 +7,8 @@
 5) 1 - nodejs14.x
 6) (enter) to choose default name: sam-app
 7) 1 - Hello World Example
-8) drop app.js from this repo into ~/environment/sam-app/hello-world folder, replacing existing file
-9) drop template.yaml from this repo into ~/environment/sam-app folder, replacing existing file
+8) copy app.js from this repo into ~/environment/sam-app/hello-world folder, replacing existing file
+9) copy template.yaml from this repo into ~/environment/sam-app folder, replacing existing file
 10) open app.js and replace REPLACE_WITH_UNTAKEN_BUCKET_NAME with a unique bucket name that is not yet taken
 11) `cd sam-app/`
 12) `sam deploy --guided`
